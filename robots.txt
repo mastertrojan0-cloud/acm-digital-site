@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://acmdigital.com.br/sitemap.xml
+Sitemap: https://mastertrojan0-cloud.github.io/acm-digital-site/sitemap.xml
